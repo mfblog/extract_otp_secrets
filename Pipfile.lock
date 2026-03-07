@@ -588,10 +588,10 @@
         },
         "nuitka": {
             "hashes": [
-                "sha256:03e4d0756d8a11cb2627da3a2d9b518c802d031bf4f2c629e0a7b8c773497452"
+                "sha256:284a4b3e7d670bb2833fdc0a29134d2e598f3cedf45142ebc29c808e6b0c1e44"
             ],
             "index": "pypi",
-            "version": "==2.8.10"
+            "version": "==4.0.3"
         },
         "ordered-set": {
             "hashes": [
@@ -728,12 +728,12 @@
         },
         "types-protobuf": {
             "hashes": [
-                "sha256:2641f78f3696822a048cfb8d0ff42ccd85c25f12f871fbebe86da63793692140",
-                "sha256:c698bb3f020274b1a2798ae09dc773728ce3f75209a35187bd11916ebfde6763"
+                "sha256:6d5fb060a616bfb076cbb61b4b3c3969f5fc8bec5810f9a2f7e648ee5cbcbf6e",
+                "sha256:da7cdd947975964a93c30bfbcc2c6841ee646b318d3816b033adc2c4eb6448e4"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.9'",
-            "version": "==6.32.1.20251210"
+            "markers": "python_version >= '3.10'",
+            "version": "==6.32.1.20260221"
         },
         "typing-extensions": {
             "hashes": [
